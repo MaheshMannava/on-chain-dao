@@ -1,1 +1,1 @@
-# on-chain-dao
+# On-chain-dao
